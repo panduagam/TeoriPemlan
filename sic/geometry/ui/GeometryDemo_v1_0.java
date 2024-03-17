@@ -49,6 +49,6 @@ public class GeometryDemo_v1_0 {
             System.out.println("Pilihan tidak valid.");
         }
 
-        scn.close();
+        
     }
 }
